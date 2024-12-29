@@ -9,7 +9,7 @@ font-size:20px
 nav a{
     font-size: 30px;
     text-decoration: none;
-    margin:50px;
+    margin:150px;
 background-color: rgb(255, 238, 0);
 color: blue;
     }
@@ -32,3 +32,7 @@ color: blue;
     .zx{
         border-radius:100px ;
     }
+.lala{
+    background-color:rgb(0, 255, 229) ;
+    text-align: center;
+}
